@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Apps\blocksoft\blocksoft.bat", 0, True
